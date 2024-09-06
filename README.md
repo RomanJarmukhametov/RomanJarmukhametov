@@ -1,16 +1,19 @@
-## Hi there 👋
+# 💫 About Me:
+🛠 I’m currently working on PropertyPulse Real Estate Web App<br>🤝 I’m looking to collaborate on innovative React or Next.js projects<br>👋 I’m looking for help with connecting with like-minded developers for mentorship and networking<br>🌱 I’m currently learning backend skills with Strapi and API development<br>💬 Ask me about the best practices for creating full-stack apps with Next.js and Strapi.<br>⚡ Fun fact: I’ve recently stopped consuming news, and after 60 days, I’ve noticed increased calmness and reduced stress, giving me more time to focus on learning and development
 
-<!--
-**RomanJarmukhametov/RomanJarmukhametov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-jarmukhametov/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@roman_j) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RomanJarmukhametov&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RomanJarmukhametov&theme=graywhite&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanJarmukhametov&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RomanJarmukhametov&theme=graywhite&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=RomanJarmukhametov&icon=0&color=0)](https://visitcount.itsvg.in)
